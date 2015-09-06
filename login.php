@@ -43,8 +43,8 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li class="login"><a href="login.php">Log In</a></li>
-            <li class="signup"><a href="signup.php">Sign Up</a></li>
+            <li class="login"><a href="#">Log In</a></li>
+            <li><a href="signup">Sign Up</a></li>
 
               </ul>
             </li>
@@ -54,31 +54,22 @@
     </nav>
 
 <br><br><br><br><br>
-<body>
-
-
-<div class="container-fluid">
-    <ul class="nav nav-tabs nav-justified">
-      <li role="presentation" class="active"><a href="index.php"> Scores</a></li>
-            <li role="presentation"><a href="schedule.php">Schedule</a></li>
-      <li role="presentation"><a href="standings.php">Standings</a></li>
-      <li role="presentation"><a href="rules.php">League Rules</a></li>
-      <li role="presentation"><a href="stats.php"> Statistics</a></li>
-    </ul>
-    <br>
-      <p> kldjaskdjlkasjdlkasjdklasjdklasjdlkasd </p>
-  </div>
 
 
 
 
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script src="../../dist/js/bootstrap.min.js"></script>
-    <script src="../../assets/js/docs.min.js"></script>
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
-  </body>
-</html>
+
+
+
+
+
+        <!-- Bootstrap core JavaScript
+        ================================================== -->
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="../../dist/js/bootstrap.min.js"></script>
+        <script src="../../assets/js/docs.min.js"></script>
+        <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+        <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+      </body>
+    </html>
