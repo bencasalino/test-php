@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Theme Template for Bootstrap</title>
+    <title>Test-PHP</title>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <!-- Bootstrap theme -->
@@ -40,18 +40,21 @@
             <span class="icon-bar"></span>
           </button>
           <a class="navbar-brand" href="#">App Name</a>
-        </div>
-        <div id="navbar" class="navbar-collapse collapse">
-          <ul class="nav navbar-nav navbar-right">
-            <li class="login"><a href="login.php">Log In</a></li>
-            <li class="signup"><a href="signup.php">Sign Up</a></li>
+            <nav class="nav navbar-nav navbar-right">
 
-              </ul>
-            </li>
-          </ul>
-        </div><!--/.nav-collapse -->
-      </div>
+                <form class="navbar-form navbar-nav nav navbar-right" role="search">
+                    <div class="form-group">
+
+                      <input type="text" class="form-control" placeholder="Username">
+                      <input type="text" class="form-control" placeholder="Password">
+                      <button type="submit" class="btn btn-info">Login</button>
+                                  <button type="button" class="btn btn-primary navbar-btn">Sign Up</button>
+                  </form>
+
+        </div>    </div>
+        </div>
     </nav>
+
 
 <br><br><br><br><br>
 <body>
