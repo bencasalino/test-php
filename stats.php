@@ -38,7 +38,7 @@
 
 
 
-            
+
 <br><br><br><br><br>
 <body>
 
@@ -49,12 +49,179 @@
             <li role="presentation"><a href="schedule.php">Schedule</a></li>
       <li role="presentation"><a href="standings.php">Standings</a></li>
       <li role="presentation"><a href="rules.php">League Rules</a></li>
-      <li role="presentation class="active""><a href="stats.php"> Statistics</a></li>
+      <li role="presentation" class="active"><a href="stats.php"> Statistics</a></li>
     </ul>
     <br>
-     <p> asdfsdfasdflasdfkjasdkfjlaksdjldsfkldjaskdjlkasjdlkasjdklasjdklasjdlkasd </p>
-  </div>
+</div>
 
+<div class="container-fluid">
+<div class="row">
+<div class=col-sm-3> <!-- Table -->
+    <h4>Goals</h4>
+     <table class="table">
+       <thead>
+         <tr>
+           <th>#</th>
+           <th>Goals</th>
+           <th>Player Name</th>
+           <th>Team Name</th>
+         </tr>
+       </thead>
+       <tbody>
+         <tr>
+           <th scope="row">1</th>
+           <td>12</td>
+           <td>Jerry</td>
+           <td>Team B</td>
+         </tr>
+         <tr>
+           <th scope="row">2</th>
+           <td>9</td>
+           <td>Kramer</td>
+           <td>Team D</td>
+         </tr>
+         <tr>
+           <th scope="row">3</th>
+           <td>7</td>
+           <td>Newman</td>
+           <td>Team A</td>
+         </tr>
+         <tr>
+           <th scope="row">3</th>
+           <td>3</td>
+           <td>George</td>
+           <td>Team C</td>
+         </tr>
+       </tbody>
+     </table>
+   </div><!-- col -->
+
+   <div class=col-sm-3> <!-- Table -->
+       <h4>Assists</h4>
+        <table class="table">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Assists</th>
+              <th>Player Name</th>
+              <th>Team Name</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">1</th>
+              <td>14</td>
+              <td>Kramer</td>
+              <td>Team D</td>
+            </tr>
+            <tr>
+              <th scope="row">2</th>
+              <td>6</td>
+              <td>Jerry</td>
+              <td>Team B</td>
+            </tr>
+            <tr>
+              <th scope="row">3</th>
+              <td>4</td>
+              <td>George</td>
+              <td>Team C</td>
+            </tr>
+            <tr>
+              <th scope="row">4</th>
+              <td>2</td>
+              <td>Newman</td>
+              <td>Team A</td>
+            </tr>
+          </tbody>
+        </table>
+      </div><!-- col -->
+
+      <div class=col-sm-3> <!-- Table -->
+          <h4>Clean Sheets</h4>
+           <table class="table">
+             <thead>
+               <tr>
+                 <th>#</th>
+                 <th>Rank</th>
+                 <th>Goalie Name</th>
+                 <th>Team Name</th>
+               </tr>
+             </thead>
+             <tbody>
+               <tr>
+                 <th scope="row">1</th>
+                 <td>13</td>
+                 <td>Bob</td>
+                 <td>Team B</td>
+               </tr>
+               <tr>
+                 <th scope="row">2</th>
+                 <td>11</td>
+                 <td>Morty</td>
+                 <td>Team A</td>
+               </tr>
+               <tr>
+                 <th scope="row">3</th>
+                 <td>9</td>
+                 <td>Elaine</td>
+                 <td>Team D</td>
+               </tr>
+               <tr>
+                 <th scope="row">4</th>
+                 <td>3</td>
+                 <td>Leo</td>
+                 <td>Team C</td>
+               </tr>
+             </tbody>
+           </table>
+         </div><!-- col -->
+
+         <div class=col-sm-3> <!-- Table -->
+             <h4>Discipline</h4>
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th>#</th>
+                    <th>Red(s)</th>
+                    <th>Yellow(s)</th>
+                    <th>Player Name</th>
+
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th scope="row">1</th>
+                    <td>12</td>
+                    <td>1</td>
+                    <td>George</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">2</th>
+                    <td>9</td>
+                    <td>9</td>
+                    <td>Kramer</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">3</th>
+                    <td>7</td>
+                    <td>2</td>
+                    <td>Newman</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">4</th>
+                    <td>3</td>
+                    <td>6</td>
+                    <td>Jerry</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div><!-- col -->
+
+
+
+
+ </div> <!-- row -->
+</div> <!-- cont fluid -->
 </body>
 
 

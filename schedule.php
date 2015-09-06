@@ -38,7 +38,7 @@
 
 
 
-            
+
 
 <br><br><br><br><br>
 <body>
@@ -53,10 +53,131 @@
       <li role="presentation"><a href="stats.php"> Statistics</a></li>
     </ul>
     <br>
-     <p> kajdfklsdajfa </p>
   </div>
 
-</body>
+
+  <div class="container-fluid">
+  <div class="row">
+  <div class=col-sm-3> <!-- Table -->
+      <h4>Week 1</h4>
+       <table class="table">
+         <thead>
+           <tr>
+               <th>Time</th>
+               <th>Field</th>
+               <th>Home </th>
+               <th>Away</th>
+           </tr>
+         </thead>
+         <tbody>
+           <tr>
+             <th scope="row">9am</th>
+             <td>East</td>
+             <td>Team A</td>
+             <td>Team B</td>
+           </tr>
+           <tr>
+             <th scope="row">12pm</th>
+             <td>South</td>
+             <td>Team C</td>
+             <td>Team D</td>
+           </tr>
+         </tbody>
+       </table>
+     </div><!-- col -->
+
+     <div class=col-sm-3> <!-- Table -->
+         <h4>Week 2</h4>
+          <table class="table">
+            <thead>
+              <tr>
+                  <th>Time</th>
+                  <th>Field</th>
+                  <th>Home </th>
+                  <th>Away</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                  <th scope="row">9am</th>
+                  <td>East</td>
+                  <td>Team A</td>
+                  <td>Team C</td>
+              </tr>
+              <tr>
+                <th scope="row">12pm</th>
+                <td>West</td>
+                <td>Team D</td>
+                <td>Team B</td>
+              </tr>
+            </tbody>
+          </table>
+        </div><!-- col -->
+
+        <div class=col-sm-3> <!-- Table -->
+            <h4>Week 3</h4>
+             <table class="table">
+               <thead>
+                 <tr>
+                   <th>Time</th>
+                   <th>Field</th>
+                   <th>Home </th>
+                   <th>Away</th>
+                 </tr>
+               </thead>
+               <tbody>
+                 <tr>
+                     <th scope="row">9am</th>
+                     <td>North</td>
+                     <td>Team A</td>
+                     <td>Team D</td>
+                 </tr>
+                 <tr>
+                   <th scope="row">12pm</th>
+                   <td>South</td>
+                   <td>Team C</td>
+                   <td>Team B</td>
+                 </tr>
+               </tbody>
+             </table>
+           </div><!-- col -->
+
+           <div class=col-sm-3> <!-- Table -->
+               <h4>Week 4</h4>
+                <table class="table">
+                  <thead>
+                    <tr>
+                        <th>Time</th>
+                        <th>Field</th>
+                        <th>Home </th>
+                        <th>Away</th>
+
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                        <th scope="row">9am</th>
+                        <td>East</td>
+                        <td>Team B</td>
+                        <td>Team A</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">12pm</th>
+                      <td>North</td>
+                      <td>Team C</td>
+                      <td>Team D</td>
+                    </tr>
+
+                  </tbody>
+                </table>
+              </div><!-- col -->
+
+
+
+
+   </div> <!-- row -->
+  </div> <!-- cont fluid -->
+  </body>
 
 
 

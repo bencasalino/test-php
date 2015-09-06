@@ -37,7 +37,7 @@
 
 
 
-            
+
 <br><br><br><br><br>
 <body>
 
@@ -51,7 +51,7 @@
       <li role="presentation"><a href="stats.php"> Statistics</a></li>
     </ul>
     <br>
-     <p> asdfasdfasdfasdf </p>
+     <p> This section can link to the <a href="index.html">Leauge Website </a>. Also can post all the leauge specific rules for setup and format. </p>
   </div>
 
 </body>
