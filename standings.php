@@ -59,16 +59,15 @@
 
 <div class="container-fluid">
     <ul class="nav nav-tabs nav-justified">
-      <li role="presentation" class="active"><a href="index.php"> Scores</a></li>
+      <li role="presentation"><a href="index.php"> Scores</a></li>
             <li role="presentation"><a href="schedule.php">Schedule</a></li>
-      <li role="presentation"><a href="standings.php">Standings</a></li>
+      <li role="presentation" class="active"><a href="standings.php">Standings</a></li>
       <li role="presentation"><a href="rules.php">League Rules</a></li>
       <li role="presentation"><a href="stats.php"> Statistics</a></li>
     </ul>
     <br>
-      <p> kldjaskdjlkasjdlkasjdklasjdklasjdlkasd </p> 
+     <p> asdfasdfsdfasdflasjdlkasd </p>
   </div>
-
 
 </body>
 
