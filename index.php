@@ -47,8 +47,8 @@
 
                       <input type="text" class="form-control" placeholder="Username">
                       <input type="text" class="form-control" placeholder="Password">
-                      <button type="submit" class="btn btn-info">Login</button>
-                                  <button type="button" class="btn btn-primary navbar-btn">Sign Up</button>
+                      <button type="submit" class="btn btn-info"><a href="login.php">Login</a></button>
+                      <button type="button" class="btn btn-primary"><a href="signup.php">Sign Up </a></button>
                   </form>
 
         </div>    </div>
